@@ -1,0 +1,7 @@
+Augmentation Name,TPR,FPR,TNR,FNR
+Original,0.9586,0.2693,0.7307,0.0414
+Original - Filler Words,0.9693,0.3168,0.6832,0.0307
+Original - emojis,0.9525,0.2485,0.7515,0.0475
+Original - misspelling,0.9586,0.318,0.682,0.0414
+Original - Modifiers,0.9579,0.2639,0.7361,0.0421
+Original - Hashtags,0.9208,0.2386,0.7614,0.0792
